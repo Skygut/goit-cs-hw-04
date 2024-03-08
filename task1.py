@@ -31,7 +31,7 @@ def threaded_file_search(file_paths, keywords):
     return result
 
 
-keywords = ["example", "test"]
+keywords = ["example", "test", "Фаулер"]
 file_paths = ["./file1.txt", "./file2.txt", "./file3.txt"]
 
 start_time = time.time()
