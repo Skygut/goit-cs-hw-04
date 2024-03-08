@@ -1,0 +1,5 @@
+In this example, we'll demonstrate how to use a test to determine the correctness of our code. 
+For instance, we can create a test to verify different parts of the program. 
+Such an example can be useful for testing various scenarios. 
+An example test case will help us ensure everything is working properly. 
+For example, we can run the test to check if the correct output is being produced.
